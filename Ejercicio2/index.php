@@ -25,7 +25,10 @@
                     <br>
                     <br>
                     <input type="submit" id="btn_cargar_usuarios" class="btn btn-success btn-block" id="btn_cargar_usuarios" value="Cargar Usuarios" style="width: 100%;">
-
+                    <br>
+                    <br>
+                   
+                    <a href="../Ejercicio1/grupo5.php" input type="submit" id="EJERCICIO1" class="btn btn-success btn-block" id="EJERCICIO1" value="EJERCICIO 1" style="width: 100%;"  >EJERCICIO 1</a>
                 </div>
             </div>
         </div>
