@@ -123,6 +123,7 @@
         <center>
         <input type="submit" class="btn1" id="btn" name="btnFinal" value="GENERAR COLOR">
         </center>
+        <a href="Ejercicio2/Ejercicio2/index.php">EJERCICIO 2</a>
         
         
 
