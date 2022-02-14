@@ -5,7 +5,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style-colors.css">
+    <link rel="stylesheet" href="colores.css">
+    <link rel="stylesheet" href="Estilos/Estilos.css">
     <title>Colores</title>
 </head>
 
@@ -119,11 +120,16 @@
                 <option value="F">F</option>
             </select>
         </div>
-        <input type="submit" class="btn btn-hero" id="btn" name="btnFinal" value="CLICK ME">
+        <center>
+        <input type="submit" class="btn1" id="btn" name="btnFinal" value="GENERAR COLOR">
+        </center>
+        
+        
+
     </form>
     <main>
         <div class="container-mostrar">
-            <h2>Background Color: <span class="color" id="color">#0097e6</span></h2>
+            <h2>Color de fondo: <span class="color" id="color">#0097e6</span></h2>
         </div>
         <center>
             <div id="cambio">

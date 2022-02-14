@@ -32,13 +32,13 @@ for (let i = 0; i < 6; i++) {
 let newInput = document.createElement('INPUT');
 // newInput.type = "submit";
 newInput.setAttribute("type", "submit");
-newInput.className = "btn btn-hero"
+newInput.className = "btn1"
 newInput.id = "btn"
 newInput.name = "btnFinal"
-newInput.value = 'CLICK ME'
+newInput.value = 'GENERAR COLOR'
 sectForm.appendChild(newInput);
 
-{/* <input type="submit" class="btn btn-hero" id="btn" name="btnFinal" value="CLICK ME" ></input> */ }
+{/* <input type="submit" class="btn1" id="btn" name="btnFinal" value="GENERAR COLOR" ></input> */ }
 // const btn = document.getElementById("btn");
 // console.log(btn);
 
