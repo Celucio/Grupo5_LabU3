@@ -1,0 +1,88 @@
+*,
+body,
+::before,
+::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+}
+
+#form {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#form div {
+    /* width: 50%; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+}
+
+#form div label{
+    font-size: 1.2rem;
+}
+
+#form div select {
+    width: 100px;
+    padding: 0.2rem;
+    border-radius: 8px;
+}
+
+.container-mostrar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container-mostrar {
+    text-align: center;
+    margin: 1rem;
+}
+
+.container-mostrar h2 {
+    background: rgb(255, 255, 255);
+    color: rgb(230, 137, 137);
+    padding: 1rem;
+    border-radius: 8px;
+    margin-top: 1rem;
+}
+
+.color {
+    color: hsl(205, 78%, 60%);
+}
+
+.btn-hero {
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase; /*Para poner todo el texto en mayusculas*/
+    background: transparent;
+    color: black;
+    letter-spacing: 0.1rem;
+    display: inline-block;
+    font-weight: 700;
+    transition: all 0.3s linear;
+    border: 2px solid black;
+    cursor: pointer;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+    border-radius: 1rem;
+    padding: 0.175rem 1.25rem;
+}
+.btn-hero:hover {
+    color: white;
+    background: black;
+}
+#cambio{
+    height: 200px;
+    width: 700px;
+    background-color:black;
+    text-align: center;
+    color: white;
+}
