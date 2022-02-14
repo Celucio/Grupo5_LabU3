@@ -6,11 +6,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style-colors.css">
-    <title>Colors</title>
+    <title>Colores</title>
 </head>
 
 <body>
-    <form action="colors.php" method="post" id="form">
+    <form action="grupo5.php" method="post" id="form">
         <div><label>CODIGO 0</label><select name="element-color0" id="element-color0">
                 <option value="1">1</option>
                 <option value="2">2</option>
