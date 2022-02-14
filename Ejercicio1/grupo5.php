@@ -133,7 +133,7 @@
         </div>
         <center>
             <div id="cambio">
-                <h1>Cambio de color</h1>
+                <h1>Color nuevo</h1>
             </div>
         </center>
 
