@@ -82,7 +82,9 @@ body {
 #cambio{
     height: 200px;
     width: 700px;
-    background-color:black;
+    background-color:rgb(22, 127, 212);
     text-align: center;
     color: white;
+    border-radius: 3px;
+    box-shadow: 10px rgba(0, 0, 0, 0.2);
 }
