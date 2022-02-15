@@ -13,6 +13,7 @@
 <body>
     <form action="grupo5.php" method="post" id="form">
         <div><label>CODIGO 0</label><select name="element-color0" id="element-color0">
+                <option value="0">0</option>
                 <option value="1">1</option>
                 <option value="2">2</option>
                 <option value="3">3</option>
@@ -31,6 +32,7 @@
             </select>
         </div>
         <div><label>CODIGO 1</label><select name="element-color1" id="element-color1">
+                <option value="0">0</option>
                 <option value="1">1</option>
                 <option value="2">2</option>
                 <option value="3">3</option>
@@ -49,6 +51,7 @@
             </select>
         </div>
         <div><label>CODIGO 2</label><select name="element-color2" id="element-color2">
+                <option value="0">0</option>
                 <option value="1">1</option>
                 <option value="2">2</option>
                 <option value="3">3</option>
@@ -67,6 +70,7 @@
             </select>
         </div>
         <div><label>CODIGO 3</label><select name="element-color3" id="element-color3">
+                <option value="0">0</option>
                 <option value="1">1</option>
                 <option value="2">2</option>
                 <option value="3">3</option>
@@ -85,6 +89,7 @@
             </select>
         </div>
         <div><label>CODIGO 4</label><select name="element-color4" id="element-color4">
+                <option value="0">0</option>
                 <option value="1">1</option>
                 <option value="2">2</option>
                 <option value="3">3</option>
@@ -103,6 +108,7 @@
             </select>
         </div>
         <div><label>CODIGO 5</label><select name="element-color5" id="element-color5">
+                <option value="0">0</option>
                 <option value="1">1</option>
                 <option value="2">2</option>
                 <option value="3">3</option>

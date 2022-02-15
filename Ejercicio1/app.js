@@ -1,7 +1,7 @@
 
 const sectForm = document.querySelector('#form');
 const cambio = document.querySelector('#cambio');
-const hasColors = [1, 2, 3, 4, 5, 6, 7, 8, 9, "A", "B", "C", "D", "E", "F"];
+const hasColors = [0,1, 2, 3, 4, 5, 6, 7, 8, 9, "A", "B", "C", "D", "E", "F"];
 
 // CARGAR LOS SELECT Y OPTIONS EN LA PAGINA
 for (let i = 0; i < 6; i++) {
